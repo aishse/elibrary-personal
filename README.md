@@ -1,5 +1,7 @@
 # eLibrary
 
+## CS157A Team Project -> extended by Anishka Chauhan
+
 ### Overview
 Reading is essential for acquiring knowledge and information. It has been statistically proven that reading improves overall quality of life. However, keeping track of progress in multiple books can be difficult, and finding quality books to read can be hard without feedback from other readers. 
 
